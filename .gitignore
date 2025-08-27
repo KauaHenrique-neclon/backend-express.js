@@ -1,0 +1,8 @@
+backend/node_modules/
+backend/.env
+entrada.asm
+entrada.exe
+package-lock.json
+backend/eslint.config.mjs
+backend/package-lock.json
+backend/package.json
